@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="textview">TextView</string>
+    <string name="choice_yout_best">Choice yout best !</string>
+    <string name="search_food">Search food</string>
+    <string name="donut">Donut</string>
+    <string name="pink_donut">Pink Donut</string>
+    <string name="floating">Floating</string>
+    <string name="choice_your_best">Choice your best</string>
+</resources>
